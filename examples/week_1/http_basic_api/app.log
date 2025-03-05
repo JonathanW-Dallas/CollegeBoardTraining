@@ -1,0 +1,35 @@
+2025-03-05T14:26:39.465Z [info]: Server is running on http://localhost:3000
+2025-03-05T14:27:46.759Z [info]: [GET]: /
+2025-03-05T14:29:02.874Z [info]: [GET]: /
+2025-03-05T14:29:24.225Z [info]: [GET]: /hasdfasdf
+2025-03-05T14:31:26.932Z [info]: [GET]: /hello
+2025-03-05T14:31:37.474Z [info]: [POST]: /hello
+2025-03-05T14:34:24.622Z [info]: Server is running on http://localhost:3000
+2025-03-05T14:34:37.011Z [info]: [GET]: /hello
+2025-03-05T14:41:00.751Z [info]: Server is running on http://localhost:3000
+2025-03-05T14:41:35.085Z [info]: [POST]: /hello
+2025-03-05T14:41:35.090Z [info]: Request Body: {
+    "data": "example"
+}
+2025-03-05T14:42:03.389Z [info]: Server is running on http://localhost:3000
+2025-03-05T14:42:07.061Z [info]: [POST]: /hello
+2025-03-05T14:42:07.063Z [info]: Request Body: {
+    "data": "example"
+}
+2025-03-05T14:42:40.411Z [info]: Server is running on http://localhost:3000
+2025-03-05T14:42:50.247Z [info]: [POST]: /hello
+2025-03-05T14:42:50.249Z [info]: Request Body: {
+    "data": "example"
+}
+2025-03-05T14:45:34.088Z [info]: Server is running on http://localhost:3000
+2025-03-05T14:45:42.976Z [info]: [GET]: /hello
+2025-03-05T14:45:46.875Z [info]: [POST]: /hello
+2025-03-05T14:45:46.876Z [info]: Request Body: {
+    "data": "example"
+}
+2025-03-05T14:45:50.499Z [info]: [PUT]: /hello
+2025-03-05T14:45:50.500Z [info]: Request Body: {
+    "data": "example"
+}
+2025-03-05T14:45:57.991Z [info]: [PATCH]: /hello
+2025-03-05T14:46:01.535Z [info]: [DELETE]: /hello
