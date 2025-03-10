@@ -1,0 +1,19 @@
+{
+    "name": "grocery-shopping-api",
+    "version": "1.0.0",
+    "description": "A simple grocery shopping API",
+    "main": "server.js",
+    "type": "commonjs",
+    "scripts": {
+      "start": "node server.js",
+      "test": "jest"
+    },
+    "dependencies": {
+      "winston": "^3.8.2"
+    },
+    "devDependencies": {
+      "jest": "^29.0.0",
+      "supertest": "^6.3.3"
+    }
+  }
+  

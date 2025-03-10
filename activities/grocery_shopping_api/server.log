@@ -1,0 +1,22 @@
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-03-06T16:16:01.626Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-03-10T14:25:46.331Z"}
+{"level":"info","message":"Viewed grocery list","timestamp":"2025-03-10T14:25:59.715Z"}
+{"level":"info","message":"Viewed grocery list","timestamp":"2025-03-10T14:30:52.208Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-03-10T14:31:20.043Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-03-10T14:38:49.900Z"}
+{"level":"info","message":"Viewed grocery list","timestamp":"2025-03-10T14:38:55.461Z"}
+{"level":"warn","message":"Invalid route accessed: /groceries","timestamp":"2025-03-10T14:39:12.590Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2025-03-10T14:43:47.575Z"}
+{"level":"info","message":"Added item: Apples","timestamp":"2025-03-10T14:43:52.898Z"}
+{"level":"info","message":"Updated item: Apples","timestamp":"2025-03-10T14:44:32.503Z"}
+{"level":"info","message":"Deleted item with ID: 1741617832896","timestamp":"2025-03-10T14:44:45.026Z"}
+{"level":"info","message":"Viewed grocery list","timestamp":"2025-03-10T14:54:32.260Z"}
+{"level":"warn","message":"Invalid route accessed: /invalid-route","timestamp":"2025-03-10T14:54:32.277Z"}
+{"level":"info","message":"Added item: Bread","timestamp":"2025-03-10T14:54:32.283Z"}
+{"level":"warn","message":"Invalid route accessed: /invalid-route","timestamp":"2025-03-10T14:54:32.292Z"}
+{"level":"info","message":"Added item: Bread","timestamp":"2025-03-10T14:55:38.536Z"}
+{"level":"warn","message":"Invalid route accessed: /invalid-route","timestamp":"2025-03-10T14:55:38.551Z"}
+{"level":"info","message":"Viewed grocery list","timestamp":"2025-03-10T14:56:47.322Z"}
+{"level":"warn","message":"Invalid route accessed: /invalid-route","timestamp":"2025-03-10T14:56:47.333Z"}
+{"level":"info","message":"Added item: Bread","timestamp":"2025-03-10T14:56:47.339Z"}
+{"level":"warn","message":"Invalid route accessed: /invalid-route","timestamp":"2025-03-10T14:56:47.349Z"}
